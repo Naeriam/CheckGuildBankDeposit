@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Check Guild Bank Deposit
+## Author: Velhari-LosErrantes EU
+## Version: 0.1
+## Notes: Check if all raid members has made a certain deposit into guild's bank
+
+CheckGuildBankDeposit.lua
