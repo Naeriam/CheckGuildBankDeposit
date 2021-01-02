@@ -19,3 +19,5 @@ The hour limit argument is **optional**, if not provided, by default the value o
 - Due to Blizzard limitations, each one of the guild tabs has a hard limit in the number of stored operations in the log. The log is limited to 25 movements. If your average raid is over 25 members, you should then make deposits in different tabs, this way all movements can be readed and processed by the addon.
  
 - Also due to Blizzard limitations, the user will need to execute all commands while the Guild bank window is open for the addon to be able to query information from the server.
+
+You can download this addon from: https://www.curseforge.com/wow/addons/check-guild-bank-deposit
