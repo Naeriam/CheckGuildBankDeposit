@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90105
 ## Title: Check Guild Bank Deposit
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
