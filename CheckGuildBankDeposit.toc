@@ -1,7 +1,8 @@
-## Interface: 100000
+## Interface: 110002
 ## Title: Check |cFF8B008BGuild Bank Deposit|r
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
+## IconTexture: Interface\Icons\inv_misc_curiouscoin
 ## Notes: Check if all raid members has made a certain deposit into guild's bank
 
 CheckGuildBankDeposit.lua
