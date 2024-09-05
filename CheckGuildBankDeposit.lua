@@ -1,5 +1,5 @@
 SLASH_CHECKGUILDBANKDEPOSIT1 = '/checkguildbank'
-DEFAULT_CHAT_FRAME:AddMessage('[|cFF8B008BCheckGuildBankDeposit|r] While in a Raid group, open Guild Bank and Run Command: /checkguildbank <Item name>, <Hour limit>', 1,1,0)
+DEFAULT_CHAT_FRAME:AddMessage('[|cFF8B008BCheckGuildBankDeposit|r] While in a Raid/Group, open Guild Bank and Run Command: /checkguildbank <Item name>, <Hour limit>', 1,1,0)
 
 isLogUpdated = false;
 
