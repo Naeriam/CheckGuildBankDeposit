@@ -1,5 +1,5 @@
 ## Category: Utils by Naeriam
-## Interface: 120000
+## Interface: 120001
 ## Title: Check |cFF8B008BGuild Bank Deposit|r
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
