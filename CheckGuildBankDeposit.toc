@@ -1,5 +1,6 @@
 ## Category: Utils by Naeriam
 ## Interface: 120100
+## X-Curse-Project-ID: 432824
 ## Title: Check |cFF8B008BGuild Bank Deposit|r
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
